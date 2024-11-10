@@ -1,0 +1,21 @@
+{
+  "name": "tau_selenium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:amazon": "node tests/amazonTest.js",
+    "test:pja": "node tests/pjaTest.js",
+    "test:olx": "node tests/olxTest.js",
+    "test:wp": "node tests/wpTest.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "chai": "^5.1.2",
+    "selenium-webdriver": "^4.26.0",
+    "tau_selenium": "file:"
+  }
+}

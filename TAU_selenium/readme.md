@@ -16,14 +16,20 @@ To get started with this project locally, follow these steps:
    ```
    
 Navigate to the project directory:
-
+```bash
 cd TAU_selenium
 cd tests
+```
 
 
 Install dependencies:
 
+```bash
 npm install
+```
+
 Run the project:
 
+```bash
 npm run test:[amazon || wp || olx || pja]
+```

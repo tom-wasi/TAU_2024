@@ -2,6 +2,7 @@
  * @fileoverview Unit tests for the Game class movement methods.
  * @requires ./Game
  */
+const Game = require('./Game');
 
 describe('Game movement tests', () => {
     let game;

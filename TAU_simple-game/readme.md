@@ -17,3 +17,5 @@ node Game.js
 ```bash
 npm test
 ```
+
+![{876895E1-8143-489E-912F-1DA334166B91}](https://github.com/user-attachments/assets/232a688d-a827-49f8-9e86-a3af4c2924c8)

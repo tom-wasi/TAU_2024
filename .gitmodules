@@ -1,6 +1,3 @@
 [submodule "TAU_API-tests/user-api"]
 	path = TAU_API-tests/user-api
-	url = https://github.com/tom-wasi/TAU_2024.git
-[submodule "TAU_unittests"]
-	path = TAU_unittests
-	url = https://github.com/tom-wasi/TAU_2024.git
+	url = https://github.com/tom-wasi/TAU_user-api.git

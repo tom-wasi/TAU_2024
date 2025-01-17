@@ -1,3 +1,6 @@
 [submodule "TAU_API-tests/user-api"]
 	path = TAU_API-tests/user-api
 	url = https://github.com/tom-wasi/TAU_user-api.git
+[submodule "TAU_order-service-mock-test"]
+	path = TAU_order-service-mock-test
+	url = https://github.com/tom-wasi/TAU_mock
